@@ -1,5 +1,5 @@
 # Analyzing-Network-Data
-University of California San Diego Capstone project
+University of California San Diego Capstone project (on Coursera).
 
 The scope of the project is to analyze social network data in order to determine:
 
